@@ -1,8 +1,9 @@
+NPM LIBRARIES USED.
 express
 ejs
 mongoose
 slugify->>to change the random generated ids urls 
-marked->>
+marked->>To change markup to html
 
 methodoverride->>outer.delete ke working k liye
 
